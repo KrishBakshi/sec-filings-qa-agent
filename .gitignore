@@ -1,0 +1,9 @@
+__pycache__
+.env
+chroma_db
+markdown_output
+tests/__pycache__
+cleaned_filings
+crawl4ai
+exp
+metadata.csv
