@@ -4,6 +4,11 @@ A semantic question-answering system that lets users query **SEC filings** (10-K
 Built for deep financial research with attribution, conversational memory, and full-stack pipeline integration.
 
 ---
+## System Architecture
+![1755587259449](https://github.com/user-attachments/assets/675ac558-00af-4fab-b223-bad78d1a9b63)
+![1755587262483](https://github.com/user-attachments/assets/f2511f25-85d9-4379-bf69-54bf1ce3524a)
+![1755587261864](https://github.com/user-attachments/assets/47e552c5-ab2b-4220-a9dd-b284f6b383c7)
+
 
 ## 🔍 Key Features
 
@@ -13,6 +18,7 @@ Built for deep financial research with attribution, conversational memory, and f
 - 🧩 Memory of last question for conversational follow-ups
 - ⚡ Fast retrieval from `ChromaDB` (vector store)
 - 🖥️ Streamlit UI for interactive querying
+
 
 ---
 
